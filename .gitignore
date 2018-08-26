@@ -21,5 +21,6 @@ cabal.project.local~
 .HTF/
 .ghc.environment.*
 
+**/.ipynb_checkpoints
 Pipfile.lock
 IHaskell/

@@ -4,11 +4,11 @@ A journal for the journey to enlightenment.
 
 Mentors
 -------
- - `Official docs <https://www.haskell.org/documentation>`_
- - `Learn you a haskell <http://learnyouahaskell.com/chapters>`_: It looks fun
-   and less scary.
- - `A Nonlinear Guide to Haskell <https://locallycompact.gitlab.io/ANLGTH>`_ I
-   like nonlinearity, no BS straight to the real deal.
+- `Official docs <https://www.haskell.org/documentation>`_
+- `Learn you a haskell <http://learnyouahaskell.com/chapters>`_: It looks fun
+  and less scary.
+- `A Nonlinear Guide to Haskell <https://locallycompact.gitlab.io/ANLGTH>`_ I
+  like nonlinearity, no BS straight to the real deal.
 
 Let's no go overboard with resources. Try to limit with maximum 3 learning
 materials.
