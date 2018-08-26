@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyter = "==1.0.0"
+ipykernel = "*"
+ipywidgets = "==7.1.1"
+jupyter_nbextensions_configurator = "*"
+jupyter_contrib_nbextensions = "*"
+jupyter_client = "==5.2.2"
+jupyter_console = "==5.2.0"
+jupyter_core = "==4.4.0"
+jupyterlab = "==0.33.12"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
